@@ -1,1 +1,4 @@
-# Steelcon2018
+# When USB devices Attack
+# Steelcon Workshop 2018
+
+
