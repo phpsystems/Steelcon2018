@@ -4,7 +4,7 @@
 Requirements for the Workshop
 -----------------------------
 
-A Laptop with a USB A port.
+A laptop with a USB A port.
 
 The Arduino IDE, found here:
 http://arduino.cc/en/Main/Software
